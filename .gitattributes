@@ -1,0 +1,2 @@
+# Ignore .nsi files
+*.nsi linguist-vendored
